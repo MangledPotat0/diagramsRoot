@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T20:14:00.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" version="15.5.0" etag="adI27p5ZArvd-IEmGg5g" type="github"><diagram id="FfBcniBfbaaSrmtbAKuS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-10T20:26:44.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="F5ELYvISbsErJvq4HrHL" version="15.5.0" type="github">
+  <diagram id="FfBcniBfbaaSrmtbAKuS" name="Page-1">
+    <mxGraphModel dx="322" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-5" value="Kernel storage allocator (page-based)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-6" value="OS-specific virtual memory manager (VMM)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-9" value="Object-specific memory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-10" value="Object-specific allocator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="470" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-12" value="Object memory&lt;br&gt;python object allocator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="470" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-13" value="Python core non-object memory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-14" value="Virtual memory for python&lt;br&gt;C library malloc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="590" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fCKgXj-M6Yrf-20VIMW1-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="250" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
