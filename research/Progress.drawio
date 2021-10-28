@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T21:26:33.564Z" agent="5.0 (Windows)" etag="Jxn9AlnZdYKgEWIl8P2B" version="15.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T21:26:55.790Z" agent="5.0 (Windows)" etag="VRf_PivV8_Jrq6XL4qI_" version="15.6.1" type="github">
   <diagram id="sCkYze-qXfBqLotD3-Qz" name="Page-1">
     <mxGraphModel dx="2580" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -280,7 +280,7 @@
         <mxCell id="1YLP4JvI8Be8PyGondC2-144" value="Compile imaging related issues" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=11;" vertex="1" parent="1YLP4JvI8Be8PyGondC2-129">
           <mxGeometry x="15" y="420" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1YLP4JvI8Be8PyGondC2-208" value="Vertical Container" style="swimlane;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="1YLP4JvI8Be8PyGondC2-208" value="Experiment setup design" style="swimlane;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-320" y="330" width="800" height="460" as="geometry" />
         </mxCell>
         <mxCell id="1YLP4JvI8Be8PyGondC2-88" value="Literature on nest setups used in laboratory experiments" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=11;" vertex="1" parent="1YLP4JvI8Be8PyGondC2-208">
