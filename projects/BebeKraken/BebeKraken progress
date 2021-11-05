@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T22:29:24.412Z" agent="5.0 (Windows)" etag="39WPyxy_oQb5y6Wfap2Z" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T23:13:03.144Z" agent="5.0 (Windows)" etag="3f-eWkd-RvXr9or7CHHL" version="15.7.0" type="github">
   <diagram id="Ud9pi5hAzKJaespgunDZ" name="Page-1">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,13 +34,13 @@
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-7" value="Set up SLURM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-5">
           <mxGeometry x="10" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-19" value="Configure compute node 1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-48">
+        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-19" value="Configure compute node 1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-48">
           <mxGeometry x="170" y="30" width="160" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Am8WtaXG_Do4u7XwL_Fp-19" source="Am8WtaXG_Do4u7XwL_Fp-21" target="Am8WtaXG_Do4u7XwL_Fp-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-21" value="Install Arch on compute node 1 (XU4)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-19">
+        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-21" value="Install Arch on compute node 1 (XU4)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-19">
           <mxGeometry x="10" y="30" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Am8WtaXG_Do4u7XwL_Fp-19" source="Am8WtaXG_Do4u7XwL_Fp-23" target="Am8WtaXG_Do4u7XwL_Fp-24">
@@ -73,7 +73,7 @@
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-36" value="Set up SLURM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-31">
           <mxGeometry x="10" y="170" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-37" value="Figure out how the network switch works" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-48">
+        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-37" value="Figure out how the network switch works" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-48">
           <mxGeometry x="530" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-38" value="Connect all the nodes to the switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-48">
