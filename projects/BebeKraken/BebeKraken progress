@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T01:25:41.472Z" agent="5.0 (Windows)" etag="JN7u5evoPSr_c7wofsH0" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-06T17:06:51.257Z" agent="5.0 (Windows)" etag="dVGmPgiLeYlvn5wOzdB1" version="15.7.0" type="github">
   <diagram id="Ud9pi5hAzKJaespgunDZ" name="Page-1">
-    <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-7" value="Set up SLURM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-5">
           <mxGeometry x="10" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-19" value="Configure compute node 1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-48">
+        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-19" value="Configure compute node 1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-48">
           <mxGeometry x="170" y="30" width="160" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Am8WtaXG_Do4u7XwL_Fp-19" source="Am8WtaXG_Do4u7XwL_Fp-21" target="Am8WtaXG_Do4u7XwL_Fp-23">
@@ -76,7 +76,7 @@
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-37" value="Figure out how the network switch works" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-48">
           <mxGeometry x="530" y="30" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-38" value="Connect all the nodes to the switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-48">
+        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-38" value="Connect all the nodes to the switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-48">
           <mxGeometry x="290" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Am8WtaXG_Do4u7XwL_Fp-48" source="Am8WtaXG_Do4u7XwL_Fp-5" target="Am8WtaXG_Do4u7XwL_Fp-38">
@@ -88,7 +88,7 @@
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Am8WtaXG_Do4u7XwL_Fp-48" source="Am8WtaXG_Do4u7XwL_Fp-37" target="Am8WtaXG_Do4u7XwL_Fp-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-51" value="Software Configuration" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-51" value="Software Configuration" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry y="590" width="680" height="270" as="geometry" />
         </mxCell>
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-52" value="Configure SLURM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-51">
