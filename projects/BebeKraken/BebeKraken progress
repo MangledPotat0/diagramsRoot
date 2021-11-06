@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T23:43:55.704Z" agent="5.0 (Windows)" etag="VVE2ikU3QlEp-m2bpHH6" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-06T01:25:41.472Z" agent="5.0 (Windows)" etag="JN7u5evoPSr_c7wofsH0" version="15.7.0" type="github">
   <diagram id="Ud9pi5hAzKJaespgunDZ" name="Page-1">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Am8WtaXG_Do4u7XwL_Fp-5" source="Am8WtaXG_Do4u7XwL_Fp-6" target="Am8WtaXG_Do4u7XwL_Fp-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-6" value="Set up MPICH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-5">
+        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-6" value="Set up MUNGE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-5">
           <mxGeometry x="10" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-7" value="Set up SLURM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-5">
@@ -46,10 +46,10 @@
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Am8WtaXG_Do4u7XwL_Fp-19" source="Am8WtaXG_Do4u7XwL_Fp-23" target="Am8WtaXG_Do4u7XwL_Fp-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-23" value="Set up MPICH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-19">
+        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-23" value="Set up MUNGE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-19">
           <mxGeometry x="10" y="100" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-24" value="Set up SLURM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-19">
+        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-24" value="Set up SLURM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-19">
           <mxGeometry x="10" y="170" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Am8WtaXG_Do4u7XwL_Fp-48" source="Am8WtaXG_Do4u7XwL_Fp-31" target="Am8WtaXG_Do4u7XwL_Fp-38">
@@ -91,10 +91,10 @@
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-51" value="Software Configuration" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry y="590" width="680" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-52" value="Learn how MPI works" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-51">
+        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-52" value="Configure SLURM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-51">
           <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-53" value="Learn how SLURM works" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-51">
+        <mxCell id="Am8WtaXG_Do4u7XwL_Fp-53" value="Configure CGROUP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-51">
           <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Am8WtaXG_Do4u7XwL_Fp-54" value="Schedule a task to a compute node through SLURM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Am8WtaXG_Do4u7XwL_Fp-51">
