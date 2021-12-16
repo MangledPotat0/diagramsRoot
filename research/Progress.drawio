@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T20:07:08.171Z" agent="5.0 (Windows)" etag="ewpJtKLDuh0chXUkTWwT" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T03:11:34.642Z" agent="5.0 (Windows)" etag="tI1EGBwmd-RUoKUeCiUB" version="15.9.6" type="github">
   <diagram id="sCkYze-qXfBqLotD3-Qz" name="Page-1">
-    <mxGraphModel dx="1715" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1715" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,10 +367,10 @@
         <mxCell id="1YLP4JvI8Be8PyGondC2-163" value="Design temperature control" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1YLP4JvI8Be8PyGondC2-162" vertex="1">
           <mxGeometry x="10" y="30" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1YLP4JvI8Be8PyGondC2-164" value="Design humidity control" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1YLP4JvI8Be8PyGondC2-162" vertex="1">
+        <mxCell id="1YLP4JvI8Be8PyGondC2-164" value="Design humidity control" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1YLP4JvI8Be8PyGondC2-162" vertex="1">
           <mxGeometry x="160" y="30" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1YLP4JvI8Be8PyGondC2-165" value="Design light control" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1YLP4JvI8Be8PyGondC2-162" vertex="1">
+        <mxCell id="1YLP4JvI8Be8PyGondC2-165" value="Design light control" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1YLP4JvI8Be8PyGondC2-162" vertex="1">
           <mxGeometry x="310" y="30" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1YLP4JvI8Be8PyGondC2-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1YLP4JvI8Be8PyGondC2-162" source="1YLP4JvI8Be8PyGondC2-167" target="1YLP4JvI8Be8PyGondC2-173" edge="1">
@@ -450,7 +450,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1YLP4JvI8Be8PyGondC2-183" value="Circuit diagram" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1YLP4JvI8Be8PyGondC2-162" vertex="1">
+        <mxCell id="1YLP4JvI8Be8PyGondC2-183" value="Circuit diagram" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1YLP4JvI8Be8PyGondC2-162" vertex="1">
           <mxGeometry x="170" y="70" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1YLP4JvI8Be8PyGondC2-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" parent="1YLP4JvI8Be8PyGondC2-162" source="1YLP4JvI8Be8PyGondC2-185" target="1YLP4JvI8Be8PyGondC2-174" edge="1">
