@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T21:07:28.567Z" agent="5.0 (Windows)" etag="H3JWvMxgOa25WkRqS-dj" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T21:08:29.064Z" agent="5.0 (Windows)" etag="dRRLjYvHkFVIMDdcAcbR" version="16.0.3" type="github">
   <diagram id="dwA7f7aP1RHuerw8ePZG" name="Page-1">
     <mxGraphModel dx="944" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -157,8 +157,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3A6kx_CSdqKXidhnRdxD-47" value="python trajectory fixer" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="txvJ2SQiOpZBaJgKJ5mZ-1">
-          <mxGeometry x="1120" y="440" width="120" height="40" as="geometry" />
+        <mxCell id="3A6kx_CSdqKXidhnRdxD-47" value="python trajectory fixer&lt;br&gt;(sleap_trajectory_&lt;br&gt;extraction.py)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="txvJ2SQiOpZBaJgKJ5mZ-1">
+          <mxGeometry x="1120" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3A6kx_CSdqKXidhnRdxD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="txvJ2SQiOpZBaJgKJ5mZ-1" source="3A6kx_CSdqKXidhnRdxD-51" target="3A6kx_CSdqKXidhnRdxD-54">
           <mxGeometry relative="1" as="geometry" />
