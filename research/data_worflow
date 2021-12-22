@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T21:04:54.597Z" agent="5.0 (Windows)" etag="nHvO9toEXPBCiffqyjOX" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T21:07:28.567Z" agent="5.0 (Windows)" etag="H3JWvMxgOa25WkRqS-dj" version="16.0.3" type="github">
   <diagram id="dwA7f7aP1RHuerw8ePZG" name="Page-1">
     <mxGraphModel dx="944" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -199,8 +199,33 @@
         <mxCell id="3A6kx_CSdqKXidhnRdxD-65" value="Manual correction&lt;br&gt;tool" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="txvJ2SQiOpZBaJgKJ5mZ-1">
           <mxGeometry x="800" y="360" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3A6kx_CSdqKXidhnRdxD-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="txvJ2SQiOpZBaJgKJ5mZ-1" source="3A6kx_CSdqKXidhnRdxD-68" target="3A6kx_CSdqKXidhnRdxD-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3A6kx_CSdqKXidhnRdxD-68" value="Completed &lt;br&gt;trajectory data" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="txvJ2SQiOpZBaJgKJ5mZ-1">
           <mxGeometry x="640" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3A6kx_CSdqKXidhnRdxD-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="txvJ2SQiOpZBaJgKJ5mZ-1" source="3A6kx_CSdqKXidhnRdxD-71" target="3A6kx_CSdqKXidhnRdxD-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A6kx_CSdqKXidhnRdxD-71" value="Trajectory analysis" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="txvJ2SQiOpZBaJgKJ5mZ-1">
+          <mxGeometry x="480" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3A6kx_CSdqKXidhnRdxD-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="txvJ2SQiOpZBaJgKJ5mZ-1" source="3A6kx_CSdqKXidhnRdxD-73" target="3A6kx_CSdqKXidhnRdxD-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="580" />
+              <mxPoint x="1100" y="580" />
+              <mxPoint x="1100" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3A6kx_CSdqKXidhnRdxD-73" value="Prob. functions&lt;br&gt;for ant kinetics" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="txvJ2SQiOpZBaJgKJ5mZ-1">
+          <mxGeometry x="640" y="440" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
