@@ -1,41 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T19:28:43.958Z" agent="5.0 (Windows)" etag="Opzd8aeAULlf9ImzLpNk" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-09T19:45:22.227Z" agent="5.0 (Windows)" etag="ONnrca1sQyQEon_OAbDD" version="16.2.4" type="github">
   <diagram id="KejE-rofOYYXHNYnUAWV" name="Page-1">
-    <mxGraphModel dx="1597" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="04y9tH13Ilaf_oATNa0v-2" value="Overall project" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="20" y="50" width="1680" height="1510" as="geometry" />
+        <mxCell id="04y9tH13Ilaf_oATNa0v-2" value="Overall project" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="50" width="2120" height="1510" as="geometry" />
         </mxCell>
         <mxCell id="04y9tH13Ilaf_oATNa0v-1" value="&lt;h1&gt;&lt;b&gt;Emergent rules in collective behaviors of ants&lt;/b&gt;&lt;/h1&gt;&lt;p&gt;In this project we will develop a high precision longterm imaging system&lt;br&gt; and algorithms to track individual ants over several hours while maintaining and sustaining of the order of a thousand ants in the experiment.&lt;/p&gt;&lt;p&gt;Using this system, we will, through a tour de force of automation and data analysis, directly identify “precision phenotypes” in dynamic &lt;u&gt;foraging&lt;/u&gt; behaviors of ants. We will use these to address how emergence of specific &lt;u&gt;collective&lt;/u&gt; behaviors are c&lt;u&gt;onditioned on environment &lt;/u&gt;(at a given moment, and historically, i.e., Markovian and non-Markovian aspects).&lt;/p&gt;&lt;p&gt;In particular, we will characterize differences in the -&lt;br&gt;following foraging behaviors (see, for e.g., Gordon Ann Rev Ent 2019): &lt;br&gt;foraging trail networks, the location of waste heaps, task flexibility, and defensive behaviors conditioned on controlled ecological factors (such as climate, resource distribution, and risk of infection).&lt;/p&gt;&lt;p&gt;Finally, we will examine how species differences in collective behaviors also reflect differences in physiology, which in turn responds to ecological conditions.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-2">
           <mxGeometry x="10" y="30" width="390" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-3" value="Automation of data acquisition and analysis" style="swimlane;horizontal=0;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-2">
-          <mxGeometry x="420" y="40" width="1080" height="360" as="geometry" />
+        <mxCell id="04y9tH13Ilaf_oATNa0v-3" value="Automation of data acquisition and analysis" style="swimlane;horizontal=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-2">
+          <mxGeometry x="570" y="30" width="1080" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-10" value="Data collection" style="swimlane;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-3">
+        <mxCell id="04y9tH13Ilaf_oATNa0v-10" value="Data collection" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-3">
           <mxGeometry x="30" y="10" width="470" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-11" value="Data analysis" style="swimlane;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-3">
+        <mxCell id="04y9tH13Ilaf_oATNa0v-11" value="Data analysis" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-3">
           <mxGeometry x="510" y="10" width="470" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-4" value="Precision phenotyping in dynamic foraging behaviors" style="swimlane;horizontal=0;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-2">
-          <mxGeometry x="590" y="410" width="300" height="360" as="geometry" />
+        <mxCell id="04y9tH13Ilaf_oATNa0v-4" value="Precision phenotyping in dynamic foraging behaviors" style="swimlane;horizontal=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-2">
+          <mxGeometry x="590" y="410" width="390" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-5" value="Characterization of differences in extranidal behaviors" style="swimlane;horizontal=0;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-2">
+        <mxCell id="04y9tH13Ilaf_oATNa0v-5" value="Characterization of differences in extranidal behaviors" style="swimlane;horizontal=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-2">
           <mxGeometry x="10" y="410" width="570" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-6" value="Foraging trail networks" style="swimlane;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-5">
+        <mxCell id="04y9tH13Ilaf_oATNa0v-6" value="Foraging trail networks" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-5">
           <mxGeometry x="30" y="10" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-7" value="Location of waste heaps" style="swimlane;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-5">
+        <mxCell id="04y9tH13Ilaf_oATNa0v-7" value="Location of waste heaps" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-5">
           <mxGeometry x="240" y="10" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-8" value="Task flexibility" style="swimlane;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-5">
+        <mxCell id="04y9tH13Ilaf_oATNa0v-8" value="Task flexibility" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-5">
           <mxGeometry x="30" y="220" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-9" value="Defensive behaviors" style="swimlane;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-5">
+        <mxCell id="04y9tH13Ilaf_oATNa0v-9" value="Defensive behaviors" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-5">
           <mxGeometry x="240" y="220" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="04y9tH13Ilaf_oATNa0v-12" value="Legends" style="swimlane;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-2">
+          <mxGeometry x="420" y="30" width="140" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="04y9tH13Ilaf_oATNa0v-13" value="Not started" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-12">
+          <mxGeometry x="10" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="04y9tH13Ilaf_oATNa0v-14" value="Work in progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-12">
+          <mxGeometry x="10" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="04y9tH13Ilaf_oATNa0v-15" value="Completed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-12">
+          <mxGeometry x="10" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="04y9tH13Ilaf_oATNa0v-16" value="Needs revision" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-12">
+          <mxGeometry x="10" y="150" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
