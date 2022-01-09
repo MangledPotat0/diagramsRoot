@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T19:09:57.079Z" agent="5.0 (Windows)" etag="Nr5I6ehPWMgNxZ82Ptvg" version="16.2.4" type="github"><diagram id="KejE-rofOYYXHNYnUAWV" name="Page-1">ddHBDoMgDADQr+GOMhfvzm0XTx52JtIJCVqDLLp9/TTAHHE7Aa8tJYWwopsvhg+yQgGapFTMhJ1ImiaU5cuyytNJdjg6aI0SPmmDWr0gVHp9KAFjlGgRtVVDjA32PTQ2Mm4MTnHaHXXcdeAt7KBuuN7rTQkrneYZ3fwKqpWhc0J9pOMh2cMoucDpi1hJWGEQrdt1cwF6HV6Yi6s7/4l+Hmagtz8Kls1293KIfoiVbw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-09T19:16:44.177Z" agent="5.0 (Windows)" etag="W-p6LCyeA7GE2UOCamEb" version="16.2.4" type="github">
+  <diagram id="KejE-rofOYYXHNYnUAWV" name="Page-1">
+    <mxGraphModel dx="798" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="04y9tH13Ilaf_oATNa0v-2" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="780" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="04y9tH13Ilaf_oATNa0v-1" value="&lt;h1&gt;&lt;b&gt;Emergent rules in collective behaviors of ants&lt;/b&gt;&lt;/h1&gt;&lt;p&gt;In this project we will develop a high precision longterm imaging system&lt;br&gt; and algorithms to track individual ants over several hours while maintaining and sustaining of the order of a thousand ants in the experiment.&lt;/p&gt;&lt;p&gt;Using this system, we will, through a tour de force of automation and data analysis, directly identify “precision phenotypes” in dynamic &lt;u&gt;foraging&lt;/u&gt; behaviors of ants. We will use these to address how emergence of specific &lt;u&gt;collective&lt;/u&gt; behaviors are c&lt;u&gt;onditioned on environment &lt;/u&gt;(at a given moment, and historically, i.e., Markovian and non-Markovian aspects).&lt;/p&gt;&lt;p&gt;In particular, we will characterize differences in the -&lt;br&gt;following foraging behaviors (see, for e.g., Gordon Ann Rev Ent 2019): &lt;br&gt;foraging trail networks, the location of waste heaps, task flexibility, and defensive behaviors conditioned on controlled ecological factors (such as climate, resource distribution, and risk of infection).&lt;/p&gt;&lt;p&gt;Finally, we will examine how species differences in collective behaviors also reflect differences in physiology, which in turn responds to ecological conditions.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-2">
+          <mxGeometry x="10" y="30" width="390" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
