@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T16:00:25.982Z" agent="5.0 (Windows)" etag="7nqnAa9Bkzv8TMSZf25R" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T16:01:43.588Z" agent="5.0 (Windows)" etag="R21q7efiUJN7Gwl3Fqek" version="16.2.4" type="github">
   <diagram id="KejE-rofOYYXHNYnUAWV" name="Page-1">
-    <mxGraphModel dx="1153" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="1213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,8 +246,8 @@
         <mxCell id="04y9tH13Ilaf_oATNa0v-9" value="Defensive behaviors" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-5">
           <mxGeometry x="240" y="220" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-12" value="Legends" style="swimlane;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-2">
-          <mxGeometry x="420" y="30" width="140" height="360" as="geometry" />
+        <mxCell id="04y9tH13Ilaf_oATNa0v-12" value="Legends" style="swimlane;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-2">
+          <mxGeometry x="420" y="30" width="140" height="190" as="geometry" />
         </mxCell>
         <mxCell id="04y9tH13Ilaf_oATNa0v-13" value="Not started" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-12">
           <mxGeometry x="10" y="30" width="120" height="30" as="geometry" />
