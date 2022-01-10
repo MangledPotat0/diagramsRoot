@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T18:18:41.406Z" agent="5.0 (Windows)" etag="LlO45H5I3OU1qT5yX7N6" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T18:34:38.744Z" agent="5.0 (Windows)" etag="3_txRids8YSLisqWbSJK" version="16.2.4" type="github">
   <diagram id="KejE-rofOYYXHNYnUAWV" name="Page-1">
     <mxGraphModel dx="1038" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
           <mxGeometry x="30" y="180" width="810" height="740" as="geometry" />
         </mxCell>
         <mxCell id="04y9tH13Ilaf_oATNa0v-30" value="Training configs" style="swimlane;horizontal=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-26">
-          <mxGeometry x="10.5" y="30" width="300" height="410" as="geometry" />
+          <mxGeometry x="10.5" y="30" width="300" height="420" as="geometry" />
         </mxCell>
         <mxCell id="04y9tH13Ilaf_oATNa0v-47" value="Model type" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-30">
           <mxGeometry x="29.5" y="10" width="180.5" height="110" as="geometry" />
@@ -141,6 +141,15 @@
         </mxCell>
         <mxCell id="04y9tH13Ilaf_oATNa0v-51" value="Image scale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-49">
           <mxGeometry x="10" y="30" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="04y9tH13Ilaf_oATNa0v-164" value="Backbone type" style="swimlane;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-30">
+          <mxGeometry x="29.5" y="290" width="180.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="04y9tH13Ilaf_oATNa0v-165" value="unet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-164">
+          <mxGeometry x="10" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="04y9tH13Ilaf_oATNa0v-166" value="SLEAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-164">
+          <mxGeometry x="10" y="70" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="04y9tH13Ilaf_oATNa0v-29" value="Tracking configs" style="swimlane;horizontal=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-26">
           <mxGeometry x="320" y="30" width="480" height="420" as="geometry" />
@@ -172,10 +181,10 @@
         <mxCell id="04y9tH13Ilaf_oATNa0v-39" value="IOU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-38">
           <mxGeometry x="10" y="30" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-40" value="Instance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-38">
+        <mxCell id="04y9tH13Ilaf_oATNa0v-40" value="Instance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-38">
           <mxGeometry x="10" y="60" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="04y9tH13Ilaf_oATNa0v-41" value="Centroid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-38">
+        <mxCell id="04y9tH13Ilaf_oATNa0v-41" value="Centroid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-38">
           <mxGeometry x="10" y="90" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="04y9tH13Ilaf_oATNa0v-42" value="Matching method" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="04y9tH13Ilaf_oATNa0v-29">
